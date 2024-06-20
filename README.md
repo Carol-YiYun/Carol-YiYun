@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carol
-- 👀 I’m interested in AI technology and Web development
-- 🌱 I’m currently learning Python, Java, Golang, HTML, CSS, JavaScript, RUST wen..etc
+- 👀 I’m interested in AI technology and Web development, and completed Python, Django, Flask courses with personal works already.
+- 🌱 I’m currently learning Java, Golang, HTML, CSS, JavaScript, RUST wen..etc
 - 💞️ I’m looking to collaborate on an AI technology related or Web development team.
 - 📫 Reach me via email: iceshuang@gmail.com
 - 😄 Pronouns: A Senior Technical Support Engineer who are highly passionate about AI
